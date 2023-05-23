@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:sans-serif
+}
+
+body 
+{   height: 100%;
+    width: 100%;
+    min-height: 100vh;
+
+    background: linear-gradient(250deg, rgb(40, 40, 240)0%,rgb(92, 144, 255)0%, rgba(71, 147, 247, 0.973)25%)
+  
+}
+
+.parrafo1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.titleyui{
+    margin-left: 10px;
+}
+
+.image1{
+    display:flex;
+    align-items: center;
+    justify-content: left; 
+
+}
+
+.text{
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+.titlemugi{
+    display:flex;
+    margin-left: 10px;
+    justify-content:right;
+    margin-right: 10px;
+}
+
+.mugi{
+    display:flex;
+    align-items:center;
+    justify-content: space-between; 
+}
+
+.text1{
+    margin-left: 40px;
+    margin-right: 20px;
+
+}
+
+.ritsutitle{
+    margin-left: 10px;
+}
+
+
+.ritsu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ritsutext{
+    display: flex;
+    align-items: right;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+.miotitle{
+    display:flex;
+    margin-left: 10px;
+    justify-content:right;
+    margin-right: 10px;
+}
+
+.mioimage{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.miotext{
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+.azunyan{
+    margin-left: 10px;
+}
+
+.azuimage{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.azutext{
+    margin-left: 40px;
+    margin-right: 20px;
+}
